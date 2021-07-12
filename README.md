@@ -1,3 +1,28 @@
-# Professional README Generator Starter Code
+# README Generator
 
-[How to create a Professional README](./readme-guide.md)
+  ## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+
+
+  ## Description
+  A command line application that generates README.md files
+
+  ## Installation
+  Clone Repo from github
+
+  ## Usage
+  use the command node index.js in command line then answer prompts
+
+  ## Questions
+  [GitHub Link](https://github.com/JonnyFaulkner)
+  [Email](jonnyfaulkner21@gmail.com)
+
+  ## Tests
+  No tests
+
+## Links
+[Video](https://drive.google.com/file/d/1k-qYA3vOBLDdXsuiimYXhF02k865fdnP/view)
+
+## Screenshots
+
