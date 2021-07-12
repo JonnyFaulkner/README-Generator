@@ -25,4 +25,8 @@
 [Video](https://drive.google.com/file/d/1k-qYA3vOBLDdXsuiimYXhF02k865fdnP/view)
 
 ## Screenshots
+[alt text](./images/Screenshot-1)
 
+[alt text](./images/Screenshot-2)
+
+[alt text](./images/Screenshot-3)
